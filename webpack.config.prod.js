@@ -49,7 +49,7 @@ export default {
       inject: true,
       // Properties you define here are available in index.html
       // using htmlWebpackPlugin.options.varName
-      trackJSToken: 'INSERT YOUR TOKEN HERE'
+      trackJSToken: 'b9562f88926a46bebb84bcbf97ae2788'
     }),
 
     // Eliminate duplicate packages when generating bundle
